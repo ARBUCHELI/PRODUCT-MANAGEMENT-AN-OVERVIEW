@@ -7,5 +7,22 @@ In this course, you will learn the difference in roles between a product manager
 product development, and how to support a product management model in your organization.
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Product Management: An Overview
+---------------------------------
+The role of product management is becoming increasingly common, but many still don't understand what it is a product manager does.
+
+You could think of a product manager as amini-CEO of the product. In other words, the product manager guides a product through its entire life cycle, from conception to product retirement.
+
+In this course, you will learn about:
+
+. The key responsibilities and attributes of a product manager.
+
+. You'll identify the typical members of a product team, and the roles they play in product development.
+
+. You'll also learn about the four stages of product management, and how an organization's structure and philosophy can impact the product manager's role.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
